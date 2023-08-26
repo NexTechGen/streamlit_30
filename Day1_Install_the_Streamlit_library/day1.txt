@@ -1,0 +1,6 @@
+Install the Streamlit library
+
+It's now time to install the streamlit library:
+
+
+pip install streamlit

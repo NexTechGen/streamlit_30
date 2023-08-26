@@ -1,0 +1,16 @@
+Uploading your Streamlit app to GitHub
+
+GitHub
+Git is a software for keeping track of all changes made to code (i.e. version control). GitHub is a Git repository hosting service that makes data and code publicly available on the web, which allows team collaboration and allow others to contribute to the repo.
+
+Housing your Streamlit app in a GitHub repository will allow apps to be deployed to the cloud (the next challenge).
+
+Sign up for GitHub
+
+
+Create a GitHub repository
+
+
+Upload files to the GitHub repo
+
+
